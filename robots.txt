@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /forms.html
+Disallow: /thank-you.html
+
+Sitemap: https://srm.admissionseekho.com/sitemap.xml

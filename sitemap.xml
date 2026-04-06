@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Main Landing Page -->
+  <url>
+    <loc>https://srm.admissionseekho.com/</loc>
+    <lastmod>2026-04-07T01:16:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Hero Section Image for Indexing -->
+    <image:image>
+      <image:loc>https://srm.admissionseekho.com/images/hero-banner.png</image:loc>
+      <image:title>Direct B.Tech Admission in SRM University 2026</image:title>
+      <image:caption>Expert guidance for direct B.Tech admissions at SRM University campuses.</image:caption>
+    </image:image>
+
+    <!-- Campus Campus Images for Branding -->
+    <image:image>
+      <image:loc>https://srm.admissionseekho.com/images/srm-kattankulathur.png</image:loc>
+      <image:title>SRM Kattankulathur Campus Admissions</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://srm.admissionseekho.com/images/srm-delhi-ncr.png</image:loc>
+      <image:title>SRM Delhi-NCR Campus Admissions</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://srm.admissionseekho.com/images/srm-amaravati.png</image:loc>
+      <image:title>SRM Amaravati Campus Admissions</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://srm.admissionseekho.com/images/srm-trichy.jpg</image:loc>
+      <image:title>SRM Tiruchirappalli (Trichy) Campus Admissions</image:title>
+    </image:image>
+  </url>
+
+</urlset>

@@ -91,28 +91,27 @@
   </script>
 
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18047462477"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BBF54YV5EJ"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18047462477"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'AW-18047462477');
-</script>
     // GA4 with enhanced conversions
     gtag('config', 'G-BBF54YV5EJ', { 'allow_enhanced_conversions': true });
     // Google Ads with enhanced conversions
-    gtag('config', 'AW-8070593507', { 'allow_enhanced_conversions': true });
+    gtag('config', 'AW-18047462477', { 'allow_enhanced_conversions': true });
 
     /* ---- CONVERSION: Call Click ---- */
     function trackCallConversion() {
-      gtag('event', 'conversion', { 'send_to': 'AW-8070593507/m9z8CJLYipccEM3Y2Z1D' });
+      gtag('event', 'conversion', { 'send_to': 'AW-18047462477/m9z8CJLYipccEM3Y2Z1D' });
       gtag('event', 'call_click', { 'event_category': 'Contact', 'event_label': 'phone_call' });
     }
 
     /* ---- CONVERSION: Lead Form Submit ---- */
     function trackLeadConversion(formId) {
-      gtag('event', 'conversion', { 'send_to': 'AW-8070593507/DZ_ICLC3_pYcEM3Y2Z1D' });
+      gtag('event', 'conversion', { 'send_to': 'AW-18047462477/DZ_ICLC3_pYcEM3Y2Z1D' });
       gtag('event', 'generate_lead', {
         'event_category': 'Lead',
         'event_label': formId || 'unknown_form',
